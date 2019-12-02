@@ -1,0 +1,2 @@
+"ui";
+require('dist/app')
