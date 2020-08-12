@@ -1,6 +1,9 @@
 log('hello, world')
 
+// 直接加载xml文件示例
 import loadLoginView from './views/xml-view'
+
+// 带变量的UI示例
 import loadStringView from './views/string-view'
 
 ui.layout(`

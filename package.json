@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@auto.pro/webpack-plugin": "^8.10.2-alpha.1",
     "@babel/core": "^7.4.0",
     "@babel/plugin-transform-modules-commonjs": "^7.7.4",
     "@babel/plugin-transform-runtime": "^7.6.2",
@@ -23,9 +24,10 @@
     "url-loader": "^1.1.2",
     "webpack": "^4.41.2",
     "webpack-cli": "^3.3.10",
-    "webpack-obfuscator": "^0.18.7"
+    "webpack-obfuscator": "^0.25.4"
   },
   "dependencies": {
+    "@auto.pro/core": "^8.10.2",
     "@babel/polyfill": "^7.4.0"
   }
 }
